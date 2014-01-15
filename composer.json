@@ -21,6 +21,6 @@
 	"require-dev": {
 	},
 	"autoload"   : {
-		"psr-4" : {"Cosenary\\InstagramPHPAPI\\": "src/"}
+		"psr-0" : {"Cosenary\\InstagramPHPAPI\\": "src/"}
 	}
 }
