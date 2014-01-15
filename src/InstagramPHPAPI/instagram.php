@@ -11,6 +11,9 @@
  * @version 2.0
  * @license BSD http://www.opensource.org/licenses/bsd-license.php
  */
+
+namespace InstagramPHPAPI;
+
 class Instagram {
 
   /**

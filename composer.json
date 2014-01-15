@@ -1,0 +1,17 @@
+{
+	"name": "cosenary/instagram-php-api",
+	"license": "MIT",
+	"description": "A PHP wrapper for the Instagram API.",
+	"keywords": ["Instagram", "API"],
+	"homepage": "https://github.com/cosenary/instagram-php-api",
+	"authors": [
+		{
+			"name": "",
+			"homepage": "",
+			"role": ""
+		}
+	],
+	"autoload": {
+		"files": ["src/InstagramPHPAPI/Instagram.php"]
+	}
+}
