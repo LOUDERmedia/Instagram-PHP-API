@@ -1,5 +1,5 @@
 {
-	"name"       : "cosenary/instagram",
+	"name"       : "cosenary/instagram-php-api",
 	"license"    : "BSD",
 	"description": "A PHP wrapper for the Instagram API.",
 	"keywords"   : ["Instagram", "API"],
