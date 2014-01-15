@@ -1,17 +1,26 @@
 {
-	"name": "cosenary/instagram-php-api",
-	"license": "MIT",
+	"name"       : "cosenary/instagram",
+	"license"    : "BSD",
 	"description": "A PHP wrapper for the Instagram API.",
-	"keywords": ["Instagram", "API"],
-	"homepage": "https://github.com/cosenary/instagram-php-api",
-	"authors": [
+	"keywords"   : ["Instagram", "API"],
+	"homepage"   : "https://github.com/cosenary/instagram-php-api",
+	"authors"    : [
 		{
-			"name": "",
-			"homepage": "",
-			"role": ""
+			"name"    : "Christian Metz",
+			"homepage": "https://github.com/cosenary/Instagram-PHP-API/",
+			"role"    : "Developer"
+		},
+		{
+			"name"    : "Kurt Aschliman",
+			"homepage": "https://github.com/kurtaschliman"
 		}
 	],
-	"autoload": {
-		"files": ["src/InstagramPHPAPI/Instagram.php"]
+	"require"    : {
+		"php": ">=5.3.0"
+	},
+	"require-dev": {
+	},
+	"autoload"   : {
+		"psr-4" : {"Cosenary\\Instagram\\": "src/"}
 	}
 }

@@ -12,7 +12,7 @@
  * @license BSD http://www.opensource.org/licenses/bsd-license.php
  */
 
-namespace InstagramPHPAPI;
+namespace Cosenary\Instagram;
 
 class Instagram {
 
